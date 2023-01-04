@@ -12,7 +12,7 @@
     "react-scripts": "3.0.1",
     "react-signup-login-component": "^1.2.0",
     "redux": "^4.0.1",
-    "simple-flexbox": "^2.0.0"
+    "simple-flexbox": "^2.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
